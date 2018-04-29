@@ -22,7 +22,7 @@
         <EditText
             android:id="@+id/textoId"
             android:layout_width="wrap_content"
-            android:layout_height="397dp"
+            android:layout_height="373dp"
             android:layout_below="@+id/imageView"
             android:layout_centerHorizontal="true"
             android:width="320dp"
