@@ -39,7 +39,7 @@
             android:singleLine="false"
             android:soundEffectsEnabled="true"
             android:textColor="#41342e"
-            android:textSize="37sp" />
+            android:textSize="35sp" />
 
         <ImageView
             android:id="@+id/botaoSalvarId"
